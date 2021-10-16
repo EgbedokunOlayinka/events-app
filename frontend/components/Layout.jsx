@@ -27,7 +27,7 @@ const Layout = ({ title, keywords, description, children }) => {
 }
 
 Layout.defaultProps = {
-    title: 'Events',
+    title: 'Eventor',
     description: 'Find the latest events',
     keywords: 'events, places'
 }
